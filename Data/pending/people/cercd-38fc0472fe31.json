@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "review_status": "pending",
+  "submission_id": "38fc0472fe31",
+  "submitted_at": "2026-01-14T22:23:46.774Z",
+  "submitter_fingerprint": "e27fb2240e9f91086d874a0720e9438aedf148000e8bb5c409021d56f8ad3157",
+  "name": "cercd",
+  "aliases": [],
+  "affiliations": [],
+  "summary": "",
+  "accounts": [
+    {
+      "platform": "x",
+      "handle": "ecerc",
+      "url": "https://www.google.com/?zx=1768429355146&no_sw_cr=1"
+    }
+  ],
+  "claims": [
+    {
+      "type": "amplification",
+      "summary": "ceqerqcf",
+      "date_range": "ece",
+      "evidence": [
+        {
+          "original_url": "https://www.google.com/?zx=1768429355146&no_sw_cr=1",
+          "archived_url": "https://www.google.com/?zx=1768429355146&no_sw_cr=1",
+          "captured_at": "2026-01-14T22:23:46.774Z",
+          "excerpt": "ercerc",
+          "context_note": "ercer"
+        }
+      ]
+    }
+  ],
+  "confidence": "medium"
+}
