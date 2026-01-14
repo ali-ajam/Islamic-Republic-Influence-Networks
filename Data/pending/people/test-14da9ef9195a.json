@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "review_status": "pending",
+  "submission_id": "14da9ef9195a",
+  "submitted_at": "2026-01-14T23:01:27.156Z",
+  "submitter_fingerprint": "c2aadd37bf98700d828aa7c320f0f2a36094593550007ce443a74784804b0f4c",
+  "name": "test",
+  "aliases": [],
+  "affiliations": [],
+  "summary": "",
+  "accounts": [
+    {
+      "platform": "linkedin",
+      "handle": "refre",
+      "url": "https://www.google.com/?zx=1768431674981&no_sw_cr=1"
+    }
+  ],
+  "claims": [
+    {
+      "type": "amplification",
+      "summary": "efver",
+      "evidence": [
+        {
+          "original_url": "https://www.google.com/?zx=1768431674981&no_sw_cr=1",
+          "archived_url": "https://www.google.com/?zx=1768431674981&no_sw_cr=1",
+          "captured_at": "2026-01-14T23:01:27.156Z",
+          "excerpt": "erver",
+          "context_note": "erver"
+        }
+      ]
+    }
+  ],
+  "confidence": "medium"
+}
